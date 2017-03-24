@@ -1,5 +1,4 @@
 # colorGame.js
-<h1> About App <h1>
 <h4>This is a fully functioning javascript-based game which challenges users to match randomly generated RGB colored squares with the corresponding RGB inputs. There is both an 'easy' and 'hard' mode to the game which which presents either three or six squares, respectively. </h4>
 
 <h2> Technologies </h2>
